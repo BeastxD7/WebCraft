@@ -35,7 +35,7 @@ body {
 # site-header
 ------------------------------------------------------------*/
 .home-page {
-    background: url(assets/images/middle-cover.jpg) no-repeat;
+    background: url(images/middle-cover.jpg) no-repeat;
 }
 
 .site-header {
@@ -293,7 +293,8 @@ body {
 ## countdown
 ------------------------------------------------------------*/
 .countdown {
-    margin-top: 40px;
+    margin-top: 40px;    
+    padding-left: 45px;
 }
 
 .countdown-holder {

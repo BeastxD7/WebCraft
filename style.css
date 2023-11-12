@@ -220,7 +220,7 @@ body {
     }
 
     .site-navigation ul li:nth-last-of-type(1) {
-        padding-left: 60px;
+        padding-left: 0px;
     }
 
     .site-navigation ul li a {

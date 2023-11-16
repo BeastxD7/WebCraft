@@ -848,7 +848,7 @@ body {
     height: 100%;
     width: 100%;
     z-index: 3;
-    background: hsla(0, 0%, 5%, 0.7);
+    background: hsl(0, 0%, 5%);
     top: 0;
     left: 0;
 }

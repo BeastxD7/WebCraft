@@ -349,8 +349,8 @@ body {
 .content-section {
     min-height: 4640px;
     width: 100%;
-    padding-bottom: 120px;
-    background: url("images/middle-cover.jpg") no-repeat;
+    padding-bottom: 0px;
+    background: url("images/middle-cover-bg.jpg") no-repeat;
     background-size: 100% auto;
 }
 
